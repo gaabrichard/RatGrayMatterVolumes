@@ -1,0 +1,6 @@
+antspyx
+nibabel
+numpy
+pandas
+scipy
+tqdm
