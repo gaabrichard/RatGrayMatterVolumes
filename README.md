@@ -19,7 +19,7 @@ Regional volumes for the WHS atlas were also calculated using *calculate_stats.i
    
 ## Test dataset
 
-The atlases and sample tissue maps (in SIGMA space) are provided in the *data* folder to test the pipeline.
+Segmented gray matter regions and atlas need to be provided separately due to space concerns.
 
 
 
